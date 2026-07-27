@@ -1,0 +1,2317 @@
+{
+ "meta": {
+  "owner": "Pranay",
+  "city": "Dublin",
+  "occasions": [
+   "office",
+   "date",
+   "salsa",
+   "out"
+  ],
+  "temps": [
+   "cold",
+   "mild",
+   "warm"
+  ],
+  "shoes": [
+   "Reebok Club C 85",
+   "New Balance 2002R",
+   "Nike Air Max TW"
+  ],
+  "outfit_count": 127,
+  "garment_count": 89,
+  "outerwear_excluded": "Jackets and coats are listed under 'outerwear' and deliberately kept out of outfits - picked by hand.",
+  "coverage_floor": 2
+ },
+ "garments": [
+  {
+   "name": "Dark wash denim",
+   "hex": "#2E3A4A"
+  },
+  {
+   "name": "Light gray jeans",
+   "hex": "#9A9A97"
+  },
+  {
+   "name": "Light black jeans",
+   "hex": "#3A3A3C"
+  },
+  {
+   "name": "Faded blue jeans",
+   "hex": "#6E8CA8"
+  },
+  {
+   "name": "Indigo jeans",
+   "hex": "#35435E"
+  },
+  {
+   "name": "Stonewash jeans",
+   "hex": "#93AFC4"
+  },
+  {
+   "name": "White denim",
+   "hex": "#EDE9E1"
+  },
+  {
+   "name": "Gray BR chinos",
+   "hex": "#7C7A74"
+  },
+  {
+   "name": "Black BR chinos",
+   "hex": "#2A2A28"
+  },
+  {
+   "name": "Tan brown chinos",
+   "hex": "#A8814F"
+  },
+  {
+   "name": "Khaki chinos",
+   "hex": "#C4A87A"
+  },
+  {
+   "name": "Off-white pants",
+   "hex": "#E8E2D6"
+  },
+  {
+   "name": "Black formal pants",
+   "hex": "#212120"
+  },
+  {
+   "name": "Navy formal pants",
+   "hex": "#26304A"
+  },
+  {
+   "name": "Latte linen pants",
+   "hex": "#C9B396"
+  },
+  {
+   "name": "Stone linen trousers",
+   "hex": "#C6BEAE"
+  },
+  {
+   "name": "Charcoal joggers",
+   "hex": "#4A4A4C"
+  },
+  {
+   "name": "Black cargo",
+   "hex": "#33322F"
+  },
+  {
+   "name": "Navy cargo",
+   "hex": "#2C3648"
+  },
+  {
+   "name": "Military cargo",
+   "hex": "#4C5A6A"
+  },
+  {
+   "name": "Black shorts",
+   "hex": "#262625"
+  },
+  {
+   "name": "Olive shorts",
+   "hex": "#A9A57E"
+  },
+  {
+   "name": "Navy gingham shirt",
+   "hex": "#4A6484"
+  },
+  {
+   "name": "Off-white patterned shirt",
+   "hex": "#E4DDCE"
+  },
+  {
+   "name": "Denim shirt",
+   "hex": "#5A7899"
+  },
+  {
+   "name": "White linen shirt",
+   "hex": "#F2EFE8"
+  },
+  {
+   "name": "White formal shirt",
+   "hex": "#F7F6F2"
+  },
+  {
+   "name": "Pink salmon shirt",
+   "hex": "#E29383"
+  },
+  {
+   "name": "Black Old Navy shirt",
+   "hex": "#262524"
+  },
+  {
+   "name": "Black Mufti shirt",
+   "hex": "#2B2A29"
+  },
+  {
+   "name": "Navy shiny shirt",
+   "hex": "#23304F"
+  },
+  {
+   "name": "Purple shiny shirt",
+   "hex": "#6B4A82"
+  },
+  {
+   "name": "Black shiny shirt",
+   "hex": "#1E1D1D"
+  },
+  {
+   "name": "Olive textured shirt",
+   "hex": "#6B7048"
+  },
+  {
+   "name": "Rust camp collar",
+   "hex": "#A85B36"
+  },
+  {
+   "name": "Brown corduroy shirt",
+   "hex": "#6E4A31"
+  },
+  {
+   "name": "Gray overshirt",
+   "hex": "#75746F"
+  },
+  {
+   "name": "Dark green shacket",
+   "hex": "#3C4A3B"
+  },
+  {
+   "name": "Dark blue Gap shirt",
+   "hex": "#3B4E6B"
+  },
+  {
+   "name": "Plaid flannel",
+   "hex": "#8A4A42"
+  },
+  {
+   "name": "Two-tone fleece",
+   "hex": "#C9C4B8"
+  },
+  {
+   "name": "Navy quarter zip",
+   "hex": "#2A3450"
+  },
+  {
+   "name": "Gray zip hoodie",
+   "hex": "#A5A5A2"
+  },
+  {
+   "name": "Black hooded tee",
+   "hex": "#232322"
+  },
+  {
+   "name": "White RR tee",
+   "hex": "#F1EEE7"
+  },
+  {
+   "name": "Navy RR tee",
+   "hex": "#2A3550"
+  },
+  {
+   "name": "Navy RR pink logo",
+   "hex": "#2D3856"
+  },
+  {
+   "name": "Superman tee",
+   "hex": "#1F1F1F"
+  },
+  {
+   "name": "Black Balmain tee",
+   "hex": "#1E1E1E"
+  },
+  {
+   "name": "Green Balmain tee",
+   "hex": "#2F3E33"
+  },
+  {
+   "name": "Dark green Levis tee",
+   "hex": "#35452F"
+  },
+  {
+   "name": "Black Levis tee",
+   "hex": "#201F1F"
+  },
+  {
+   "name": "Red Levis tee",
+   "hex": "#A83A32"
+  },
+  {
+   "name": "White Pepe tee",
+   "hex": "#F0EDE6"
+  },
+  {
+   "name": "Light blue J&J tee",
+   "hex": "#A9C3D6"
+  },
+  {
+   "name": "Ed Sheeran tee",
+   "hex": "#1D1D1C"
+  },
+  {
+   "name": "Olive striped tee",
+   "hex": "#7E7F5A"
+  },
+  {
+   "name": "Burgundy long sleeve",
+   "hex": "#6E2F33"
+  },
+  {
+   "name": "Gray print long sleeve",
+   "hex": "#4B4B4D"
+  },
+  {
+   "name": "Light green crew neck",
+   "hex": "#B9C2A4"
+  },
+  {
+   "name": "Dark gray Mufti tee",
+   "hex": "#444446"
+  },
+  {
+   "name": "Light purple oversized",
+   "hex": "#A594B8"
+  },
+  {
+   "name": "Navy NYC polo",
+   "hex": "#29344E"
+  },
+  {
+   "name": "Taupe maroon polo",
+   "hex": "#7A5153"
+  },
+  {
+   "name": "Sage polo",
+   "hex": "#92A183"
+  },
+  {
+   "name": "Dark gray UCB polo",
+   "hex": "#4C4C4E"
+  },
+  {
+   "name": "Black print polo",
+   "hex": "#2A2A2C"
+  },
+  {
+   "name": "Black polo",
+   "hex": "#232322"
+  },
+  {
+   "name": "White BH polo",
+   "hex": "#F1EFE9"
+  },
+  {
+   "name": "Sand polo",
+   "hex": "#CBB491"
+  },
+  {
+   "name": "Navy Tommy sweatshirt",
+   "hex": "#2B3550"
+  },
+  {
+   "name": "Green BH sweatshirt",
+   "hex": "#37472F"
+  },
+  {
+   "name": "Navy crew neck",
+   "hex": "#2E3A55"
+  },
+  {
+   "name": "Off-white sweatshirt",
+   "hex": "#E7E1D5"
+  },
+  {
+   "name": "Flecked sweater",
+   "hex": "#C3B69C"
+  },
+  {
+   "name": "Light gray knit",
+   "hex": "#B4B3AF"
+  },
+  {
+   "name": "Brown chevron top",
+   "hex": "#6E4E3C"
+  },
+  {
+   "name": "White M&S tee",
+   "hex": "#F0EDE6"
+  },
+  {
+   "name": "Black M&S tee",
+   "hex": "#232322"
+  },
+  {
+   "name": "Navy textured shorts",
+   "hex": "#2C3549"
+  },
+  {
+   "name": "M&S lightweight shorts",
+   "hex": "#EFE7D5"
+  },
+  {
+   "name": "Grey M&S tee",
+   "hex": "#8E8E8B"
+  },
+  {
+   "name": "Zara white print shirt",
+   "hex": "#EDEFEE"
+  },
+  {
+   "name": "Olive cotton shirt",
+   "hex": "#5E6440"
+  },
+  {
+   "name": "White cotton shirt",
+   "hex": "#F4F2EC"
+  },
+  {
+   "name": "Green North Face tee",
+   "hex": "#33452F"
+  },
+  {
+   "name": "Gray Roadster long sleeve",
+   "hex": "#4E4E50"
+  },
+  {
+   "name": "White long sleeve tee",
+   "hex": "#F0EDE6"
+  },
+  {
+   "name": "Tan Uniqlo chinos",
+   "hex": "#B79A6B"
+  }
+ ],
+ "outfits": [
+  {
+   "id": 0,
+   "layer": null,
+   "top": "Olive textured shirt",
+   "bottom": "Khaki chinos",
+   "shoes": "New Balance 2002R",
+   "occasions": [
+    "office",
+    "out"
+   ],
+   "temps": [
+    "mild",
+    "warm"
+   ],
+   "note": "Tonal earth. Sleeves rolled twice."
+  },
+  {
+   "id": 1,
+   "layer": "Navy quarter zip",
+   "top": "White RR tee",
+   "bottom": "Tan brown chinos",
+   "shoes": "Reebok Club C 85",
+   "occasions": [
+    "office"
+   ],
+   "temps": [
+    "cold",
+    "mild"
+   ],
+   "note": null
+  },
+  {
+   "id": 2,
+   "layer": "Gray overshirt",
+   "top": "Black M&S tee",
+   "bottom": "Light gray jeans",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "office",
+    "out"
+   ],
+   "temps": [
+    "cold",
+    "mild"
+   ],
+   "note": "Three greys, three different weights. That is why it works."
+  },
+  {
+   "id": 3,
+   "layer": null,
+   "top": "Black Old Navy shirt",
+   "bottom": "Gray BR chinos",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "office",
+    "out"
+   ],
+   "temps": [
+    "mild"
+   ],
+   "note": null
+  },
+  {
+   "id": 4,
+   "layer": null,
+   "top": "Navy gingham shirt",
+   "bottom": "Dark wash denim",
+   "shoes": "Reebok Club C 85",
+   "occasions": [
+    "office",
+    "date"
+   ],
+   "temps": [
+    "cold",
+    "mild"
+   ],
+   "note": null
+  },
+  {
+   "id": 5,
+   "layer": null,
+   "top": "White formal shirt",
+   "bottom": "Navy formal pants",
+   "shoes": "Reebok Club C 85",
+   "occasions": [
+    "office"
+   ],
+   "temps": [
+    "cold",
+    "mild",
+    "warm"
+   ],
+   "note": "For the day something formal appears on the calendar."
+  },
+  {
+   "id": 6,
+   "layer": null,
+   "top": "Light green crew neck",
+   "bottom": "Gray BR chinos",
+   "shoes": "Reebok Club C 85",
+   "occasions": [
+    "office"
+   ],
+   "temps": [
+    "cold"
+   ],
+   "note": null
+  },
+  {
+   "id": 7,
+   "layer": null,
+   "top": "Sage polo",
+   "bottom": "Stonewash jeans",
+   "shoes": "Reebok Club C 85",
+   "occasions": [
+    "office",
+    "out"
+   ],
+   "temps": [
+    "warm"
+   ],
+   "note": null
+  },
+  {
+   "id": 8,
+   "layer": "Flecked sweater",
+   "top": "Denim shirt",
+   "bottom": "Indigo jeans",
+   "shoes": "New Balance 2002R",
+   "occasions": [
+    "office"
+   ],
+   "temps": [
+    "cold"
+   ],
+   "note": "Collar and cuffs out. The sweater is the jacket."
+  },
+  {
+   "id": 9,
+   "layer": "Light gray knit",
+   "top": "White formal shirt",
+   "bottom": "Black BR chinos",
+   "shoes": "Reebok Club C 85",
+   "occasions": [
+    "office",
+    "date"
+   ],
+   "temps": [
+    "cold"
+   ],
+   "note": null
+  },
+  {
+   "id": 10,
+   "layer": null,
+   "top": "Navy crew neck",
+   "bottom": "Tan brown chinos",
+   "shoes": "New Balance 2002R",
+   "occasions": [
+    "office"
+   ],
+   "temps": [
+    "cold",
+    "mild"
+   ],
+   "note": null
+  },
+  {
+   "id": 11,
+   "layer": "Brown corduroy shirt",
+   "top": "White M&S tee",
+   "bottom": "Tan brown chinos",
+   "shoes": "New Balance 2002R",
+   "occasions": [
+    "office",
+    "out"
+   ],
+   "temps": [
+    "cold",
+    "mild"
+   ],
+   "note": null
+  },
+  {
+   "id": 12,
+   "layer": null,
+   "top": "Olive striped tee",
+   "bottom": "Tan brown chinos",
+   "shoes": "New Balance 2002R",
+   "occasions": [
+    "office",
+    "out"
+   ],
+   "temps": [
+    "warm",
+    "mild"
+   ],
+   "note": null
+  },
+  {
+   "id": 13,
+   "layer": "Two-tone fleece",
+   "top": "Sand polo",
+   "bottom": "Khaki chinos",
+   "shoes": "New Balance 2002R",
+   "occasions": [
+    "office"
+   ],
+   "temps": [
+    "cold"
+   ],
+   "note": "The default for a wet Dublin Tuesday."
+  },
+  {
+   "id": 14,
+   "layer": null,
+   "top": "Black polo",
+   "bottom": "Gray BR chinos",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "office",
+    "out"
+   ],
+   "temps": [
+    "warm"
+   ],
+   "note": null
+  },
+  {
+   "id": 15,
+   "layer": null,
+   "top": "Dark gray UCB polo",
+   "bottom": "Black BR chinos",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "office",
+    "out"
+   ],
+   "temps": [
+    "warm"
+   ],
+   "note": null
+  },
+  {
+   "id": 16,
+   "layer": null,
+   "top": "Burgundy long sleeve",
+   "bottom": "Khaki chinos",
+   "shoes": "New Balance 2002R",
+   "occasions": [
+    "office"
+   ],
+   "temps": [
+    "cold"
+   ],
+   "note": null
+  },
+  {
+   "id": 17,
+   "layer": null,
+   "top": "Navy RR pink logo",
+   "bottom": "Gray BR chinos",
+   "shoes": "Reebok Club C 85",
+   "occasions": [
+    "office",
+    "out"
+   ],
+   "temps": [
+    "mild",
+    "warm"
+   ],
+   "note": null
+  },
+  {
+   "id": 18,
+   "layer": "Dark blue Gap shirt",
+   "top": "White Pepe tee",
+   "bottom": "Light gray jeans",
+   "shoes": "Reebok Club C 85",
+   "occasions": [
+    "office",
+    "out"
+   ],
+   "temps": [
+    "mild"
+   ],
+   "note": null
+  },
+  {
+   "id": 19,
+   "layer": "Flecked sweater",
+   "top": "White formal shirt",
+   "bottom": "Navy formal pants",
+   "shoes": "Reebok Club C 85",
+   "occasions": [
+    "office",
+    "date"
+   ],
+   "temps": [
+    "cold"
+   ],
+   "note": "The most formal thing you own that is not a suit."
+  },
+  {
+   "id": 20,
+   "layer": null,
+   "top": "Off-white sweatshirt",
+   "bottom": "Indigo jeans",
+   "shoes": "Reebok Club C 85",
+   "occasions": [
+    "office",
+    "out"
+   ],
+   "temps": [
+    "cold",
+    "mild"
+   ],
+   "note": null
+  },
+  {
+   "id": 21,
+   "layer": null,
+   "top": "Navy Tommy sweatshirt",
+   "bottom": "Light gray jeans",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "office",
+    "out"
+   ],
+   "temps": [
+    "cold"
+   ],
+   "note": null
+  },
+  {
+   "id": 22,
+   "layer": null,
+   "top": "Light purple oversized",
+   "bottom": "Black BR chinos",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "office",
+    "out"
+   ],
+   "temps": [
+    "warm"
+   ],
+   "note": null
+  },
+  {
+   "id": 23,
+   "layer": null,
+   "top": "Sand polo",
+   "bottom": "Navy formal pants",
+   "shoes": "Reebok Club C 85",
+   "occasions": [
+    "office",
+    "date"
+   ],
+   "temps": [
+    "warm"
+   ],
+   "note": "Reads smart without looking like you tried."
+  },
+  {
+   "id": 24,
+   "layer": null,
+   "top": "White BH polo",
+   "bottom": "Tan brown chinos",
+   "shoes": "Reebok Club C 85",
+   "occasions": [
+    "office",
+    "out"
+   ],
+   "temps": [
+    "warm"
+   ],
+   "note": null
+  },
+  {
+   "id": 25,
+   "layer": null,
+   "top": "Green Balmain tee",
+   "bottom": "Light gray jeans",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "office",
+    "out"
+   ],
+   "temps": [
+    "mild"
+   ],
+   "note": null
+  },
+  {
+   "id": 26,
+   "layer": null,
+   "top": "Olive textured shirt",
+   "bottom": "Stone linen trousers",
+   "shoes": "New Balance 2002R",
+   "occasions": [
+    "date",
+    "salsa",
+    "out"
+   ],
+   "temps": [
+    "warm",
+    "mild"
+   ],
+   "note": "Best single outfit you own. Do not overuse it."
+  },
+  {
+   "id": 27,
+   "layer": "Rust camp collar",
+   "top": "White M&S tee",
+   "bottom": "Stone linen trousers",
+   "shoes": "New Balance 2002R",
+   "occasions": [
+    "date",
+    "salsa"
+   ],
+   "temps": [
+    "warm"
+   ],
+   "note": "Shirt open, tee clean, no jewellery needed."
+  },
+  {
+   "id": 28,
+   "layer": null,
+   "top": "Black shiny shirt",
+   "bottom": "Off-white pants",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "date",
+    "salsa"
+   ],
+   "temps": [
+    "mild",
+    "warm"
+   ],
+   "note": "Highest contrast in the wardrobe. Own it or skip it."
+  },
+  {
+   "id": 29,
+   "layer": null,
+   "top": "Black shiny shirt",
+   "bottom": "Black BR chinos",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "date",
+    "salsa"
+   ],
+   "temps": [
+    "cold",
+    "mild",
+    "warm"
+   ],
+   "note": null
+  },
+  {
+   "id": 30,
+   "layer": "Navy shiny shirt",
+   "top": "White M&S tee",
+   "bottom": "Light black jeans",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "date",
+    "out"
+   ],
+   "temps": [
+    "mild"
+   ],
+   "note": null
+  },
+  {
+   "id": 31,
+   "layer": null,
+   "top": "Navy shiny shirt",
+   "bottom": "Black BR chinos",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "date"
+   ],
+   "temps": [
+    "mild"
+   ],
+   "note": null
+  },
+  {
+   "id": 32,
+   "layer": null,
+   "top": "Purple shiny shirt",
+   "bottom": "Dark wash denim",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "date",
+    "salsa"
+   ],
+   "temps": [
+    "mild"
+   ],
+   "note": "The one that gets a comment. Save it for when you want one."
+  },
+  {
+   "id": 33,
+   "layer": null,
+   "top": "Pink salmon shirt",
+   "bottom": "Dark wash denim",
+   "shoes": "Reebok Club C 85",
+   "occasions": [
+    "date"
+   ],
+   "temps": [
+    "mild",
+    "warm"
+   ],
+   "note": null
+  },
+  {
+   "id": 34,
+   "layer": null,
+   "top": "Brown corduroy shirt",
+   "bottom": "Dark wash denim",
+   "shoes": "New Balance 2002R",
+   "occasions": [
+    "date",
+    "out"
+   ],
+   "temps": [
+    "cold",
+    "mild"
+   ],
+   "note": "Buttoned all the way. Corduroy does the talking."
+  },
+  {
+   "id": 35,
+   "layer": null,
+   "top": "White formal shirt",
+   "bottom": "Tan brown chinos",
+   "shoes": "Reebok Club C 85",
+   "occasions": [
+    "date",
+    "office"
+   ],
+   "temps": [
+    "mild",
+    "warm"
+   ],
+   "note": null
+  },
+  {
+   "id": 36,
+   "layer": null,
+   "top": "Black Mufti shirt",
+   "bottom": "Light gray jeans",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "date",
+    "out"
+   ],
+   "temps": [
+    "mild"
+   ],
+   "note": null
+  },
+  {
+   "id": 37,
+   "layer": null,
+   "top": "Denim shirt",
+   "bottom": "Light black jeans",
+   "shoes": "New Balance 2002R",
+   "occasions": [
+    "date",
+    "out"
+   ],
+   "temps": [
+    "mild",
+    "cold"
+   ],
+   "note": "Double denim survives only when the two washes are far apart. These are."
+  },
+  {
+   "id": 38,
+   "layer": "Flecked sweater",
+   "top": "White formal shirt",
+   "bottom": "Off-white pants",
+   "shoes": "New Balance 2002R",
+   "occasions": [
+    "date"
+   ],
+   "temps": [
+    "cold"
+   ],
+   "note": null
+  },
+  {
+   "id": 39,
+   "layer": null,
+   "top": "Black Balmain tee",
+   "bottom": "Light black jeans",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "date",
+    "out"
+   ],
+   "temps": [
+    "cold",
+    "mild"
+   ],
+   "note": null
+  },
+  {
+   "id": 40,
+   "layer": null,
+   "top": "Off-white patterned shirt",
+   "bottom": "Latte linen pants",
+   "shoes": "Reebok Club C 85",
+   "occasions": [
+    "date",
+    "salsa",
+    "out"
+   ],
+   "temps": [
+    "warm"
+   ],
+   "note": "All-cream. Keep the sneakers spotless or it collapses."
+  },
+  {
+   "id": 41,
+   "layer": "Dark green shacket",
+   "top": "White RR tee",
+   "bottom": "Gray BR chinos",
+   "shoes": "New Balance 2002R",
+   "occasions": [
+    "date",
+    "out"
+   ],
+   "temps": [
+    "mild",
+    "cold"
+   ],
+   "note": null
+  },
+  {
+   "id": 42,
+   "layer": null,
+   "top": "Light gray knit",
+   "bottom": "Stone linen trousers",
+   "shoes": "Reebok Club C 85",
+   "occasions": [
+    "date"
+   ],
+   "temps": [
+    "mild"
+   ],
+   "note": "Soft on soft. The only sharp thing should be the shoes."
+  },
+  {
+   "id": 43,
+   "layer": null,
+   "top": "Taupe maroon polo",
+   "bottom": "White denim",
+   "shoes": "Reebok Club C 85",
+   "occasions": [
+    "date",
+    "out"
+   ],
+   "temps": [
+    "warm"
+   ],
+   "note": null
+  },
+  {
+   "id": 44,
+   "layer": null,
+   "top": "Brown chevron top",
+   "bottom": "Gray BR chinos",
+   "shoes": "New Balance 2002R",
+   "occasions": [
+    "date",
+    "out"
+   ],
+   "temps": [
+    "cold",
+    "mild"
+   ],
+   "note": null
+  },
+  {
+   "id": 45,
+   "layer": null,
+   "top": "Black Levis tee",
+   "bottom": "Off-white pants",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "salsa"
+   ],
+   "temps": [
+    "warm",
+    "mild"
+   ],
+   "note": "Loose leg, clean turns. Dark top hides the second hour."
+  },
+  {
+   "id": 46,
+   "layer": null,
+   "top": "White Pepe tee",
+   "bottom": "Latte linen pants",
+   "shoes": "Reebok Club C 85",
+   "occasions": [
+    "salsa",
+    "out"
+   ],
+   "temps": [
+    "warm"
+   ],
+   "note": null
+  },
+  {
+   "id": 47,
+   "layer": null,
+   "top": "Black hooded tee",
+   "bottom": "Charcoal joggers",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "salsa"
+   ],
+   "temps": [
+    "cold",
+    "mild",
+    "warm"
+   ],
+   "note": "Practice kit. Zero decisions."
+  },
+  {
+   "id": 48,
+   "layer": null,
+   "top": "Sand polo",
+   "bottom": "Charcoal joggers",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "salsa"
+   ],
+   "temps": [
+    "mild"
+   ],
+   "note": null
+  },
+  {
+   "id": 49,
+   "layer": null,
+   "top": "Brown chevron top",
+   "bottom": "Charcoal joggers",
+   "shoes": "New Balance 2002R",
+   "occasions": [
+    "salsa",
+    "out"
+   ],
+   "temps": [
+    "cold",
+    "mild"
+   ],
+   "note": null
+  },
+  {
+   "id": 50,
+   "layer": null,
+   "top": "Black print polo",
+   "bottom": "Gray BR chinos",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "salsa",
+    "date",
+    "out"
+   ],
+   "temps": [
+    "warm",
+    "mild"
+   ],
+   "note": null
+  },
+  {
+   "id": 51,
+   "layer": null,
+   "top": "Ed Sheeran tee",
+   "bottom": "Black formal pants",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "salsa",
+    "out"
+   ],
+   "temps": [
+    "cold",
+    "mild"
+   ],
+   "note": "Zip comes off after two songs. Plan for that."
+  },
+  {
+   "id": 52,
+   "layer": "Olive textured shirt",
+   "top": "White RR tee",
+   "bottom": "Latte linen pants",
+   "shoes": "New Balance 2002R",
+   "occasions": [
+    "salsa",
+    "date"
+   ],
+   "temps": [
+    "mild"
+   ],
+   "note": null
+  },
+  {
+   "id": 53,
+   "layer": null,
+   "top": "Dark gray UCB polo",
+   "bottom": "Light black jeans",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "salsa",
+    "out"
+   ],
+   "temps": [
+    "mild"
+   ],
+   "note": null
+  },
+  {
+   "id": 54,
+   "layer": null,
+   "top": "Black Levis tee",
+   "bottom": "Charcoal joggers",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "salsa"
+   ],
+   "temps": [
+    "cold",
+    "mild"
+   ],
+   "note": null
+  },
+  {
+   "id": 55,
+   "layer": null,
+   "top": "Dark gray Mufti tee",
+   "bottom": "Off-white pants",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "salsa",
+    "out"
+   ],
+   "temps": [
+    "cold",
+    "mild"
+   ],
+   "note": null
+  },
+  {
+   "id": 56,
+   "layer": null,
+   "top": "Burgundy long sleeve",
+   "bottom": "Black BR chinos",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "salsa",
+    "date"
+   ],
+   "temps": [
+    "cold"
+   ],
+   "note": null
+  },
+  {
+   "id": 57,
+   "layer": "Navy quarter zip",
+   "top": "Black M&S tee",
+   "bottom": "Charcoal joggers",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "salsa"
+   ],
+   "temps": [
+    "cold"
+   ],
+   "note": "Zip comes off at the door. Plan the layer you shed."
+  },
+  {
+   "id": 58,
+   "layer": null,
+   "top": "Sand polo",
+   "bottom": "Navy cargo",
+   "shoes": "New Balance 2002R",
+   "occasions": [
+    "out"
+   ],
+   "temps": [
+    "warm",
+    "mild"
+   ],
+   "note": null
+  },
+  {
+   "id": 59,
+   "layer": null,
+   "top": "Superman tee",
+   "bottom": "Faded blue jeans",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "out"
+   ],
+   "temps": [
+    "mild"
+   ],
+   "note": null
+  },
+  {
+   "id": 60,
+   "layer": null,
+   "top": "Red Levis tee",
+   "bottom": "Light black jeans",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "out"
+   ],
+   "temps": [
+    "cold",
+    "mild"
+   ],
+   "note": null
+  },
+  {
+   "id": 61,
+   "layer": null,
+   "top": "Dark green Levis tee",
+   "bottom": "Military cargo",
+   "shoes": "New Balance 2002R",
+   "occasions": [
+    "out"
+   ],
+   "temps": [
+    "mild",
+    "warm"
+   ],
+   "note": null
+  },
+  {
+   "id": 62,
+   "layer": "Two-tone fleece",
+   "top": "White M&S tee",
+   "bottom": "Faded blue jeans",
+   "shoes": "New Balance 2002R",
+   "occasions": [
+    "out"
+   ],
+   "temps": [
+    "cold"
+   ],
+   "note": null
+  },
+  {
+   "id": 63,
+   "layer": null,
+   "top": "Light blue J&J tee",
+   "bottom": "Tan brown chinos",
+   "shoes": "Reebok Club C 85",
+   "occasions": [
+    "out",
+    "office"
+   ],
+   "temps": [
+    "warm"
+   ],
+   "note": null
+  },
+  {
+   "id": 64,
+   "layer": null,
+   "top": "Dark gray Mufti tee",
+   "bottom": "Black cargo",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "out"
+   ],
+   "temps": [
+    "cold"
+   ],
+   "note": null
+  },
+  {
+   "id": 65,
+   "layer": "Plaid flannel",
+   "top": "White M&S tee",
+   "bottom": "Military cargo",
+   "shoes": "New Balance 2002R",
+   "occasions": [
+    "out"
+   ],
+   "temps": [
+    "cold",
+    "mild"
+   ],
+   "note": null
+  },
+  {
+   "id": 66,
+   "layer": null,
+   "top": "Green BH sweatshirt",
+   "bottom": "Stonewash jeans",
+   "shoes": "New Balance 2002R",
+   "occasions": [
+    "out"
+   ],
+   "temps": [
+    "cold"
+   ],
+   "note": null
+  },
+  {
+   "id": 67,
+   "layer": "Gray zip hoodie",
+   "top": "Black M&S tee",
+   "bottom": "Black cargo",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "out"
+   ],
+   "temps": [
+    "cold"
+   ],
+   "note": null
+  },
+  {
+   "id": 68,
+   "layer": null,
+   "top": "White linen shirt",
+   "bottom": "Olive shorts",
+   "shoes": "Reebok Club C 85",
+   "occasions": [
+    "out"
+   ],
+   "temps": [
+    "warm"
+   ],
+   "note": "The two weeks a year Dublin allows this."
+  },
+  {
+   "id": 69,
+   "layer": null,
+   "top": "Navy RR tee",
+   "bottom": "Black shorts",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "out"
+   ],
+   "temps": [
+    "warm"
+   ],
+   "note": null
+  },
+  {
+   "id": 70,
+   "layer": null,
+   "top": "Navy crew neck",
+   "bottom": "Indigo jeans",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "out"
+   ],
+   "temps": [
+    "cold"
+   ],
+   "note": "Actual January. Nothing clever about it."
+  },
+  {
+   "id": 71,
+   "layer": null,
+   "top": "Navy NYC polo",
+   "bottom": "Indigo jeans",
+   "shoes": "Reebok Club C 85",
+   "occasions": [
+    "out",
+    "office"
+   ],
+   "temps": [
+    "warm",
+    "mild"
+   ],
+   "note": null
+  },
+  {
+   "id": 72,
+   "layer": null,
+   "top": "Gray print long sleeve",
+   "bottom": "Indigo jeans",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "out"
+   ],
+   "temps": [
+    "cold",
+    "mild"
+   ],
+   "note": null
+  },
+  {
+   "id": 73,
+   "layer": null,
+   "top": "Black Levis tee",
+   "bottom": "Faded blue jeans",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "out"
+   ],
+   "temps": [
+    "mild",
+    "warm"
+   ],
+   "note": null
+  },
+  {
+   "id": 74,
+   "layer": null,
+   "top": "Ed Sheeran tee",
+   "bottom": "White denim",
+   "shoes": "Reebok Club C 85",
+   "occasions": [
+    "out"
+   ],
+   "temps": [
+    "warm"
+   ],
+   "note": null
+  },
+  {
+   "id": 75,
+   "layer": null,
+   "top": "White M&S tee",
+   "bottom": "Navy textured shorts",
+   "shoes": "Reebok Club C 85",
+   "occasions": [
+    "out"
+   ],
+   "temps": [
+    "warm"
+   ],
+   "note": null
+  },
+  {
+   "id": 76,
+   "layer": null,
+   "top": "Sand polo",
+   "bottom": "Navy textured shorts",
+   "shoes": "New Balance 2002R",
+   "occasions": [
+    "out"
+   ],
+   "temps": [
+    "warm"
+   ],
+   "note": null
+  },
+  {
+   "id": 77,
+   "layer": null,
+   "top": "White linen shirt",
+   "bottom": "Navy textured shorts",
+   "shoes": "Reebok Club C 85",
+   "occasions": [
+    "out"
+   ],
+   "temps": [
+    "warm"
+   ],
+   "note": "Shirt open over nothing. The one genuinely summer outfit here."
+  },
+  {
+   "id": 78,
+   "layer": null,
+   "top": "Navy RR tee",
+   "bottom": "M&S lightweight shorts",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "out"
+   ],
+   "temps": [
+    "warm"
+   ],
+   "note": null
+  },
+  {
+   "id": 79,
+   "layer": null,
+   "top": "Green Balmain tee",
+   "bottom": "M&S lightweight shorts",
+   "shoes": "New Balance 2002R",
+   "occasions": [
+    "out"
+   ],
+   "temps": [
+    "warm"
+   ],
+   "note": null
+  },
+  {
+   "id": 80,
+   "layer": null,
+   "top": "Black M&S tee",
+   "bottom": "M&S lightweight shorts",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "out"
+   ],
+   "temps": [
+    "warm"
+   ],
+   "note": null
+  },
+  {
+   "id": 81,
+   "layer": null,
+   "top": "Grey M&S tee",
+   "bottom": "Black BR chinos",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "office",
+    "out"
+   ],
+   "temps": [
+    "warm",
+    "mild"
+   ],
+   "note": null
+  },
+  {
+   "id": 82,
+   "layer": null,
+   "top": "Grey M&S tee",
+   "bottom": "Indigo jeans",
+   "shoes": "Reebok Club C 85",
+   "occasions": [
+    "out"
+   ],
+   "temps": [
+    "mild"
+   ],
+   "note": null
+  },
+  {
+   "id": 83,
+   "layer": "Dark green shacket",
+   "top": "Grey M&S tee",
+   "bottom": "Tan brown chinos",
+   "shoes": "New Balance 2002R",
+   "occasions": [
+    "office",
+    "out"
+   ],
+   "temps": [
+    "mild",
+    "cold"
+   ],
+   "note": null
+  },
+  {
+   "id": 84,
+   "layer": null,
+   "top": "Grey M&S tee",
+   "bottom": "Light black jeans",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "out"
+   ],
+   "temps": [
+    "cold",
+    "mild"
+   ],
+   "note": null
+  },
+  {
+   "id": 85,
+   "layer": "Rust camp collar",
+   "top": "Black M&S tee",
+   "bottom": "Khaki chinos",
+   "shoes": "New Balance 2002R",
+   "occasions": [
+    "date",
+    "out"
+   ],
+   "temps": [
+    "warm"
+   ],
+   "note": null
+  },
+  {
+   "id": 86,
+   "layer": null,
+   "top": "White M&S tee",
+   "bottom": "Military cargo",
+   "shoes": "New Balance 2002R",
+   "occasions": [
+    "out"
+   ],
+   "temps": [
+    "warm",
+    "mild"
+   ],
+   "note": null
+  },
+  {
+   "id": 87,
+   "layer": null,
+   "top": "Black M&S tee",
+   "bottom": "Charcoal joggers",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "salsa",
+    "out"
+   ],
+   "temps": [
+    "mild"
+   ],
+   "note": "Windbreaker off at the door. Practice kit, second version."
+  },
+  {
+   "id": 88,
+   "layer": null,
+   "top": "Zara white print shirt",
+   "bottom": "Black BR chinos",
+   "shoes": "Reebok Club C 85",
+   "occasions": [
+    "office",
+    "date"
+   ],
+   "temps": [
+    "mild",
+    "warm"
+   ],
+   "note": null
+  },
+  {
+   "id": 89,
+   "layer": null,
+   "top": "Zara white print shirt",
+   "bottom": "Latte linen pants",
+   "shoes": "Reebok Club C 85",
+   "occasions": [
+    "date",
+    "out"
+   ],
+   "temps": [
+    "warm"
+   ],
+   "note": null
+  },
+  {
+   "id": 90,
+   "layer": null,
+   "top": "Olive cotton shirt",
+   "bottom": "Dark wash denim",
+   "shoes": "New Balance 2002R",
+   "occasions": [
+    "office",
+    "out"
+   ],
+   "temps": [
+    "mild"
+   ],
+   "note": null
+  },
+  {
+   "id": 91,
+   "layer": "Olive cotton shirt",
+   "top": "White M&S tee",
+   "bottom": "Charcoal joggers",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "salsa",
+    "out"
+   ],
+   "temps": [
+    "mild"
+   ],
+   "note": null
+  },
+  {
+   "id": 92,
+   "layer": null,
+   "top": "White cotton shirt",
+   "bottom": "Gray BR chinos",
+   "shoes": "Reebok Club C 85",
+   "occasions": [
+    "office"
+   ],
+   "temps": [
+    "mild",
+    "cold"
+   ],
+   "note": null
+  },
+  {
+   "id": 93,
+   "layer": null,
+   "top": "Green North Face tee",
+   "bottom": "Faded blue jeans",
+   "shoes": "New Balance 2002R",
+   "occasions": [
+    "out"
+   ],
+   "temps": [
+    "warm",
+    "mild"
+   ],
+   "note": null
+  },
+  {
+   "id": 94,
+   "layer": null,
+   "top": "Gray Roadster long sleeve",
+   "bottom": "Black cargo",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "out"
+   ],
+   "temps": [
+    "cold"
+   ],
+   "note": null
+  },
+  {
+   "id": 95,
+   "layer": null,
+   "top": "White long sleeve tee",
+   "bottom": "Navy cargo",
+   "shoes": "New Balance 2002R",
+   "occasions": [
+    "out"
+   ],
+   "temps": [
+    "mild"
+   ],
+   "note": null
+  },
+  {
+   "id": 96,
+   "layer": null,
+   "top": "Green Balmain tee",
+   "bottom": "Tan Uniqlo chinos",
+   "shoes": "New Balance 2002R",
+   "occasions": [
+    "office",
+    "out"
+   ],
+   "temps": [
+    "mild"
+   ],
+   "note": null
+  },
+  {
+   "id": 97,
+   "layer": null,
+   "top": "Black polo",
+   "bottom": "Black formal pants",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "salsa",
+    "date"
+   ],
+   "temps": [
+    "mild",
+    "warm"
+   ],
+   "note": "All black, loose enough to move in."
+  },
+  {
+   "id": 98,
+   "layer": null,
+   "top": "Black print polo",
+   "bottom": "Black shorts",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "out"
+   ],
+   "temps": [
+    "warm"
+   ],
+   "note": null
+  },
+  {
+   "id": 99,
+   "layer": null,
+   "top": "White BH polo",
+   "bottom": "Olive shorts",
+   "shoes": "Reebok Club C 85",
+   "occasions": [
+    "out"
+   ],
+   "temps": [
+    "warm"
+   ],
+   "note": null
+  },
+  {
+   "id": 100,
+   "layer": null,
+   "top": "Sage polo",
+   "bottom": "Tan Uniqlo chinos",
+   "shoes": "New Balance 2002R",
+   "occasions": [
+    "office",
+    "out"
+   ],
+   "temps": [
+    "warm",
+    "mild"
+   ],
+   "note": null
+  },
+  {
+   "id": 101,
+   "layer": "Gray overshirt",
+   "top": "White long sleeve tee",
+   "bottom": "Indigo jeans",
+   "shoes": "Reebok Club C 85",
+   "occasions": [
+    "office",
+    "out"
+   ],
+   "temps": [
+    "cold",
+    "mild"
+   ],
+   "note": null
+  },
+  {
+   "id": 102,
+   "layer": "Plaid flannel",
+   "top": "Dark green Levis tee",
+   "bottom": "Faded blue jeans",
+   "shoes": "New Balance 2002R",
+   "occasions": [
+    "out"
+   ],
+   "temps": [
+    "cold",
+    "mild"
+   ],
+   "note": null
+  },
+  {
+   "id": 103,
+   "layer": "Gray zip hoodie",
+   "top": "Superman tee",
+   "bottom": "Black cargo",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "out"
+   ],
+   "temps": [
+    "cold"
+   ],
+   "note": null
+  },
+  {
+   "id": 104,
+   "layer": "Dark blue Gap shirt",
+   "top": "Red Levis tee",
+   "bottom": "Light gray jeans",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "out"
+   ],
+   "temps": [
+    "mild"
+   ],
+   "note": null
+  },
+  {
+   "id": 105,
+   "layer": null,
+   "top": "Black Balmain tee",
+   "bottom": "Stone linen trousers",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "date",
+    "out"
+   ],
+   "temps": [
+    "mild",
+    "warm"
+   ],
+   "note": "Loose linen under a plain black tee. Closest thing here to the drape you like."
+  },
+  {
+   "id": 106,
+   "layer": null,
+   "top": "Black Mufti shirt",
+   "bottom": "Charcoal joggers",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "salsa",
+    "out"
+   ],
+   "temps": [
+    "mild"
+   ],
+   "note": "Lyocell drapes and moves. Better dance shirt than it looks."
+  },
+  {
+   "id": 107,
+   "layer": null,
+   "top": "Black Old Navy shirt",
+   "bottom": "Latte linen pants",
+   "shoes": "New Balance 2002R",
+   "occasions": [
+    "date",
+    "out"
+   ],
+   "temps": [
+    "warm"
+   ],
+   "note": null
+  },
+  {
+   "id": 108,
+   "layer": null,
+   "top": "Black hooded tee",
+   "bottom": "Military cargo",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "out"
+   ],
+   "temps": [
+    "mild"
+   ],
+   "note": null
+  },
+  {
+   "id": 109,
+   "layer": null,
+   "top": "Gray Roadster long sleeve",
+   "bottom": "Indigo jeans",
+   "shoes": "Reebok Club C 85",
+   "occasions": [
+    "office",
+    "out"
+   ],
+   "temps": [
+    "cold"
+   ],
+   "note": null
+  },
+  {
+   "id": 110,
+   "layer": null,
+   "top": "Gray print long sleeve",
+   "bottom": "Charcoal joggers",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "out"
+   ],
+   "temps": [
+    "cold"
+   ],
+   "note": null
+  },
+  {
+   "id": 111,
+   "layer": null,
+   "top": "Green BH sweatshirt",
+   "bottom": "Khaki chinos",
+   "shoes": "New Balance 2002R",
+   "occasions": [
+    "office",
+    "out"
+   ],
+   "temps": [
+    "cold"
+   ],
+   "note": null
+  },
+  {
+   "id": 112,
+   "layer": null,
+   "top": "Green North Face tee",
+   "bottom": "Stone linen trousers",
+   "shoes": "New Balance 2002R",
+   "occasions": [
+    "date",
+    "out"
+   ],
+   "temps": [
+    "warm"
+   ],
+   "note": "Forest green on stone. Straight off your colour card."
+  },
+  {
+   "id": 113,
+   "layer": null,
+   "top": "Light blue J&J tee",
+   "bottom": "M&S lightweight shorts",
+   "shoes": "Reebok Club C 85",
+   "occasions": [
+    "out"
+   ],
+   "temps": [
+    "warm"
+   ],
+   "note": null
+  },
+  {
+   "id": 114,
+   "layer": null,
+   "top": "Light green crew neck",
+   "bottom": "Tan brown chinos",
+   "shoes": "New Balance 2002R",
+   "occasions": [
+    "office"
+   ],
+   "temps": [
+    "cold"
+   ],
+   "note": null
+  },
+  {
+   "id": 115,
+   "layer": null,
+   "top": "Light purple oversized",
+   "bottom": "Off-white pants",
+   "shoes": "Reebok Club C 85",
+   "occasions": [
+    "date",
+    "out"
+   ],
+   "temps": [
+    "warm"
+   ],
+   "note": "Oversized on loose. The most relaxed silhouette you own."
+  },
+  {
+   "id": 116,
+   "layer": null,
+   "top": "Navy NYC polo",
+   "bottom": "Khaki chinos",
+   "shoes": "Reebok Club C 85",
+   "occasions": [
+    "office",
+    "out"
+   ],
+   "temps": [
+    "warm"
+   ],
+   "note": null
+  },
+  {
+   "id": 117,
+   "layer": null,
+   "top": "Navy RR pink logo",
+   "bottom": "Faded blue jeans",
+   "shoes": "Reebok Club C 85",
+   "occasions": [
+    "out"
+   ],
+   "temps": [
+    "mild",
+    "warm"
+   ],
+   "note": null
+  },
+  {
+   "id": 118,
+   "layer": null,
+   "top": "Navy Tommy sweatshirt",
+   "bottom": "Indigo jeans",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "out"
+   ],
+   "temps": [
+    "cold"
+   ],
+   "note": "Navy on midnight blue, the pairing off your colour reference."
+  },
+  {
+   "id": 119,
+   "layer": null,
+   "top": "Navy gingham shirt",
+   "bottom": "Latte linen pants",
+   "shoes": "Reebok Club C 85",
+   "occasions": [
+    "date",
+    "out"
+   ],
+   "temps": [
+    "warm"
+   ],
+   "note": null
+  },
+  {
+   "id": 120,
+   "layer": null,
+   "top": "Off-white patterned shirt",
+   "bottom": "Navy textured shorts",
+   "shoes": "Reebok Club C 85",
+   "occasions": [
+    "out"
+   ],
+   "temps": [
+    "warm"
+   ],
+   "note": null
+  },
+  {
+   "id": 121,
+   "layer": null,
+   "top": "Off-white sweatshirt",
+   "bottom": "Charcoal joggers",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "out"
+   ],
+   "temps": [
+    "cold"
+   ],
+   "note": null
+  },
+  {
+   "id": 122,
+   "layer": null,
+   "top": "Olive striped tee",
+   "bottom": "Military cargo",
+   "shoes": "New Balance 2002R",
+   "occasions": [
+    "out"
+   ],
+   "temps": [
+    "warm",
+    "mild"
+   ],
+   "note": null
+  },
+  {
+   "id": 123,
+   "layer": null,
+   "top": "Pink salmon shirt",
+   "bottom": "Off-white pants",
+   "shoes": "Reebok Club C 85",
+   "occasions": [
+    "date",
+    "out"
+   ],
+   "temps": [
+    "warm"
+   ],
+   "note": null
+  },
+  {
+   "id": 124,
+   "layer": null,
+   "top": "Purple shiny shirt",
+   "bottom": "Black formal pants",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "date",
+    "salsa"
+   ],
+   "temps": [
+    "mild"
+   ],
+   "note": null
+  },
+  {
+   "id": 125,
+   "layer": null,
+   "top": "Taupe maroon polo",
+   "bottom": "Tan brown chinos",
+   "shoes": "New Balance 2002R",
+   "occasions": [
+    "office",
+    "out"
+   ],
+   "temps": [
+    "warm"
+   ],
+   "note": null
+  },
+  {
+   "id": 126,
+   "layer": null,
+   "top": "White cotton shirt",
+   "bottom": "Dark wash denim",
+   "shoes": "Reebok Club C 85",
+   "occasions": [
+    "office",
+    "date"
+   ],
+   "temps": [
+    "mild"
+   ],
+   "note": null
+  }
+ ],
+ "outerwear": [
+  {
+   "name": "Denim jacket",
+   "hex": "#5D7EA0"
+  },
+  {
+   "name": "Black/white zip up",
+   "hex": "#2E2E2E"
+  },
+  {
+   "name": "CK soft shell",
+   "hex": "#232323"
+  },
+  {
+   "name": "Navy bomber",
+   "hex": "#26304A"
+  },
+  {
+   "name": "Navy parka",
+   "hex": "#22293F"
+  },
+  {
+   "name": "Adidas windbreaker",
+   "hex": "#3A3A3A"
+  },
+  {
+   "name": "North Face tan jacket",
+   "hex": "#B39A72"
+  }
+ ]
+}

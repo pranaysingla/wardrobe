@@ -1,0 +1,14 @@
+{
+  "name": "wardrobe",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Phone-first outfit picker. Static PWA, no backend.",
+  "scripts": {
+    "verify": "node tools/validate.js && node tools/simulate.js",
+    "validate": "node tools/validate.js",
+    "simulate": "node tools/simulate.js",
+    "icons": "node tools/make-icons.js",
+    "serve": "python3 -m http.server 8123"
+  }
+}

@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Wardrobe</title>
+<meta name="description" content="Two outfits, every morning. Tap one.">
+<meta name="theme-color" content="#A3A099">
+
+<!-- Add to Home Screen on iOS -->
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Wardrobe">
+<link rel="apple-touch-icon" href="./icons/apple-touch-icon.png">
+<link rel="icon" href="./icons/favicon-32.png" sizes="32x32">
+<link rel="manifest" href="./manifest.json">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;800&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="wordmark">Wardrobe</div>
+    <div class="today" id="dateline"></div>
+  </header>
+
+  <nav class="views" role="group" aria-label="View">
+    <button id="v-today" aria-pressed="true">Today</button>
+    <button id="v-browse" aria-pressed="false">Browse</button>
+  </nav>
+
+  <div id="notices" aria-live="polite"></div>
+
+  <!-- ================= TODAY ================= -->
+  <section id="view-today">
+    <div class="filters">
+      <div class="filter-row" id="occ-row"></div>
+      <div class="filter-row" id="temp-row"></div>
+    </div>
+
+    <div class="eyebrow">
+      <h1 id="deck-title">Today's two</h1>
+      <div class="tag" id="pool-count"></div>
+    </div>
+
+    <div class="deck" id="deck"></div>
+    <button class="reroll" id="reroll">Show me two others</button>
+
+    <section class="logsec">
+      <div class="tag" style="margin-bottom:8px">Last worn</div>
+      <div id="log"></div>
+      <div class="logactions">
+        <button class="textbtn" id="export">Export log</button>
+        <button class="textbtn" id="import">Import log</button>
+        <button class="textbtn" id="clearlog">Clear history</button>
+      </div>
+      <input type="file" id="importfile" accept="application/json,.json" hidden>
+    </section>
+  </section>
+
+  <!-- ================= BROWSE ================= -->
+  <section id="view-browse" hidden>
+    <label class="visually-hidden" for="search">Search garments</label>
+    <input class="search" id="search" placeholder="olive shirt, linen, sand polo…"
+           autocomplete="off" autocorrect="off" spellcheck="false" enterkeyhint="search">
+    <div class="tag count" id="browse-count"></div>
+    <div id="browse-list"></div>
+  </section>
+</div>
+
+<script type="module" src="./app.js"></script>
+</body>
+</html>
