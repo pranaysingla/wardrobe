@@ -18,10 +18,12 @@
    "New Balance 2002R",
    "Nike Air Max TW"
   ],
-  "outfit_count": 127,
-  "garment_count": 89,
+  "outfit_count": 139,
+  "garment_count": 93,
   "outerwear_excluded": "Jackets and coats are listed under 'outerwear' and deliberately kept out of outfits - picked by hand.",
-  "coverage_floor": 2
+  "coverage_floor": 2,
+  "updated": "2026-11-23",
+  "id_policy": "IDs are permanent. Retired outfits' slots were reused only because none had ever been logged."
  },
  "garments": [
   {
@@ -379,6 +381,22 @@
   {
    "name": "Tan Uniqlo chinos",
    "hex": "#B79A6B"
+  },
+  {
+   "name": "Off-white waffle henley",
+   "hex": "#ECE6D8"
+  },
+  {
+   "name": "Brown/charcoal quarter zip",
+   "hex": "#574A41"
+  },
+  {
+   "name": "Dark green oversized crew",
+   "hex": "#2E4636"
+  },
+  {
+   "name": "Olive cords",
+   "hex": "#5E6141"
   }
  ],
  "outfits": [
@@ -400,18 +418,19 @@
   },
   {
    "id": 1,
-   "layer": "Navy quarter zip",
-   "top": "White RR tee",
+   "layer": "Denim shirt",
+   "top": "White M&S tee",
    "bottom": "Tan brown chinos",
-   "shoes": "Reebok Club C 85",
+   "shoes": "Nike Air Max TW",
    "occasions": [
+    "out",
     "office"
    ],
    "temps": [
-    "cold",
-    "mild"
+    "mild",
+    "cold"
    ],
-   "note": null
+   "note": "Indigo, white, tobacco, from your references. Calm colours around the chinos keep them rich, not loud."
   },
   {
    "id": 2,
@@ -547,39 +566,41 @@
     "cold",
     "mild"
    ],
-   "note": null
+   "note": "Navy over camel, from your couple references."
   },
   {
    "id": 11,
-   "layer": "Brown corduroy shirt",
-   "top": "White M&S tee",
-   "bottom": "Tan brown chinos",
-   "shoes": "New Balance 2002R",
+   "layer": null,
+   "top": "Light gray knit",
+   "bottom": "Black formal pants",
+   "shoes": "Nike Air Max TW",
    "occasions": [
     "office",
-    "out"
+    "out",
+    "date"
    ],
    "temps": [
     "cold",
     "mild"
    ],
-   "note": null
+   "note": "Grey knit over black, your Paris street reference."
   },
   {
    "id": 12,
    "layer": null,
-   "top": "Olive striped tee",
-   "bottom": "Tan brown chinos",
+   "top": "Taupe maroon polo",
+   "bottom": "Stone linen trousers",
    "shoes": "New Balance 2002R",
    "occasions": [
-    "office",
-    "out"
+    "date",
+    "out",
+    "salsa"
    ],
    "temps": [
     "warm",
     "mild"
    ],
-   "note": null
+   "note": "Burgundy over stone, the blazer reference without the blazer."
   },
   {
    "id": 13,
@@ -749,17 +770,19 @@
   {
    "id": 24,
    "layer": null,
-   "top": "White BH polo",
-   "bottom": "Tan brown chinos",
+   "top": "Burgundy long sleeve",
+   "bottom": "Off-white pants",
    "shoes": "Reebok Club C 85",
    "occasions": [
-    "office",
-    "out"
+    "date",
+    "out",
+    "salsa"
    ],
    "temps": [
-    "warm"
+    "cold",
+    "mild"
    ],
-   "note": null
+   "note": "Burgundy and cream, the winter version."
   },
   {
    "id": 25,
@@ -918,19 +941,20 @@
   },
   {
    "id": 35,
-   "layer": null,
-   "top": "White formal shirt",
-   "bottom": "Tan brown chinos",
+   "layer": "Olive cotton shirt",
+   "top": "White M&S tee",
+   "bottom": "Off-white pants",
    "shoes": "Reebok Club C 85",
    "occasions": [
     "date",
+    "out",
     "office"
    ],
    "temps": [
     "mild",
     "warm"
    ],
-   "note": null
+   "note": "Olive over white over cream: two of your references in one."
   },
   {
    "id": 36,
@@ -1118,17 +1142,18 @@
   },
   {
    "id": 48,
-   "layer": null,
-   "top": "Sand polo",
-   "bottom": "Charcoal joggers",
-   "shoes": "Nike Air Max TW",
+   "layer": "Navy quarter zip",
+   "top": "White RR tee",
+   "bottom": "Tan Uniqlo chinos",
+   "shoes": "New Balance 2002R",
    "occasions": [
-    "salsa"
+    "office"
    ],
    "temps": [
+    "cold",
     "mild"
    ],
-   "note": null
+   "note": "Navy knit over camel, the calmer cousin of the tobacco look."
   },
   {
    "id": 49,
@@ -1257,17 +1282,19 @@
   },
   {
    "id": 57,
-   "layer": "Navy quarter zip",
+   "layer": "Brown corduroy shirt",
    "top": "Black M&S tee",
-   "bottom": "Charcoal joggers",
+   "bottom": "Light black jeans",
    "shoes": "Nike Air Max TW",
    "occasions": [
-    "salsa"
+    "out",
+    "date"
    ],
    "temps": [
-    "cold"
+    "cold",
+    "mild"
    ],
-   "note": "Zip comes off at the door. Plan the layer you shed."
+   "note": "Brown over black, your brown-suit reference off duty."
   },
   {
    "id": 58,
@@ -1344,18 +1371,19 @@
   },
   {
    "id": 63,
-   "layer": null,
-   "top": "Light blue J&J tee",
-   "bottom": "Tan brown chinos",
+   "layer": "Navy crew neck",
+   "top": "White formal shirt",
+   "bottom": "White denim",
    "shoes": "Reebok Club C 85",
    "occasions": [
-    "out",
+    "date",
     "office"
    ],
    "temps": [
-    "warm"
+    "cold",
+    "mild"
    ],
-   "note": null
+   "note": "Navy over a white collar, white below. Keep the trainers spotless."
   },
   {
    "id": 64,
@@ -1632,19 +1660,20 @@
   },
   {
    "id": 83,
-   "layer": "Dark green shacket",
-   "top": "Grey M&S tee",
-   "bottom": "Tan brown chinos",
+   "layer": null,
+   "top": "Off-white waffle henley",
+   "bottom": "Olive cords",
    "shoes": "New Balance 2002R",
    "occasions": [
+    "out",
     "office",
-    "out"
+    "date"
    ],
    "temps": [
     "mild",
     "cold"
    ],
-   "note": null
+   "note": "Throw the navy crew neck over your shoulders for the full reference look."
   },
   {
    "id": 84,
@@ -1693,18 +1722,19 @@
   },
   {
    "id": 87,
-   "layer": null,
-   "top": "Black M&S tee",
-   "bottom": "Charcoal joggers",
+   "layer": "Dark green shacket",
+   "top": "Sand polo",
+   "bottom": "Black formal pants",
    "shoes": "Nike Air Max TW",
    "occasions": [
-    "salsa",
-    "out"
+    "date",
+    "out",
+    "office"
    ],
    "temps": [
     "mild"
    ],
-   "note": "Windbreaker off at the door. Practice kit, second version."
+   "note": "Deep green, cream, black: the harrington reference."
   },
   {
    "id": 88,
@@ -1754,18 +1784,17 @@
   },
   {
    "id": 91,
-   "layer": "Olive cotton shirt",
-   "top": "White M&S tee",
-   "bottom": "Charcoal joggers",
-   "shoes": "Nike Air Max TW",
+   "layer": "Navy quarter zip",
+   "top": "White formal shirt",
+   "bottom": "Light gray jeans",
+   "shoes": "Reebok Club C 85",
    "occasions": [
-    "salsa",
-    "out"
+    "office"
    ],
    "temps": [
-    "mild"
+    "cold"
    ],
-   "note": null
+   "note": "Navy knit, white collar, pale grey below: the cardigan reference."
   },
   {
    "id": 92,
@@ -1979,16 +2008,17 @@
    "id": 106,
    "layer": null,
    "top": "Black Mufti shirt",
-   "bottom": "Charcoal joggers",
+   "bottom": "White denim",
    "shoes": "Nike Air Max TW",
    "occasions": [
-    "salsa",
+    "date",
     "out"
    ],
    "temps": [
-    "mild"
+    "mild",
+    "warm"
    ],
-   "note": "Lyocell drapes and moves. Better dance shirt than it looks."
+   "note": "Black over cream, the simplest high-contrast look you own."
   },
   {
    "id": 107,
@@ -2037,16 +2067,18 @@
   {
    "id": 110,
    "layer": null,
-   "top": "Gray print long sleeve",
-   "bottom": "Charcoal joggers",
-   "shoes": "Nike Air Max TW",
+   "top": "Sage polo",
+   "bottom": "Navy formal pants",
+   "shoes": "Reebok Club C 85",
    "occasions": [
-    "out"
+    "office",
+    "date"
    ],
    "temps": [
-    "cold"
+    "warm",
+    "mild"
    ],
-   "note": null
+   "note": "Sage over deep navy, from your colour references."
   },
   {
    "id": 111,
@@ -2095,16 +2127,18 @@
   {
    "id": 114,
    "layer": null,
-   "top": "Light green crew neck",
-   "bottom": "Tan brown chinos",
-   "shoes": "New Balance 2002R",
+   "top": "Light blue J&J tee",
+   "bottom": "Khaki chinos",
+   "shoes": "Reebok Club C 85",
    "occasions": [
-    "office"
+    "office",
+    "out"
    ],
    "temps": [
-    "cold"
+    "warm",
+    "mild"
    ],
-   "note": null
+   "note": "Light blue over beige, from your colour references."
   },
   {
    "id": 115,
@@ -2197,16 +2231,18 @@
   {
    "id": 121,
    "layer": null,
-   "top": "Off-white sweatshirt",
-   "bottom": "Charcoal joggers",
-   "shoes": "Nike Air Max TW",
+   "top": "Off-white waffle henley",
+   "bottom": "Faded blue jeans",
+   "shoes": "New Balance 2002R",
    "occasions": [
-    "out"
+    "out",
+    "office"
    ],
    "temps": [
+    "mild",
     "cold"
    ],
-   "note": null
+   "note": "Cream over mid-blue with brown trainers, as in your reference."
   },
   {
    "id": 122,
@@ -2256,17 +2292,17 @@
   {
    "id": 125,
    "layer": null,
-   "top": "Taupe maroon polo",
-   "bottom": "Tan brown chinos",
-   "shoes": "New Balance 2002R",
+   "top": "Grey M&S tee",
+   "bottom": "White denim",
+   "shoes": "Nike Air Max TW",
    "occasions": [
-    "office",
     "out"
    ],
    "temps": [
+    "mild",
     "warm"
    ],
-   "note": null
+   "note": "Grey over white, from your colour references."
   },
   {
    "id": 126,
@@ -2282,6 +2318,188 @@
     "mild"
    ],
    "note": null
+  },
+  {
+   "id": 127,
+   "layer": "Brown/charcoal quarter zip",
+   "top": "Off-white waffle henley",
+   "bottom": "Olive cords",
+   "shoes": "New Balance 2002R",
+   "occasions": [
+    "office",
+    "out",
+    "date"
+   ],
+   "temps": [
+    "cold"
+   ],
+   "note": "Three of your new pieces in one outfit."
+  },
+  {
+   "id": 128,
+   "layer": "Brown/charcoal quarter zip",
+   "top": "White cotton shirt",
+   "bottom": "Navy formal pants",
+   "shoes": "Reebok Club C 85",
+   "occasions": [
+    "office"
+   ],
+   "temps": [
+    "cold"
+   ],
+   "note": "Collar out over the zip."
+  },
+  {
+   "id": 129,
+   "layer": "Brown/charcoal quarter zip",
+   "top": "Black M&S tee",
+   "bottom": "Dark wash denim",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "out",
+    "date"
+   ],
+   "temps": [
+    "cold"
+   ],
+   "note": null
+  },
+  {
+   "id": 130,
+   "layer": null,
+   "top": "Dark green oversized crew",
+   "bottom": "Off-white pants",
+   "shoes": "Reebok Club C 85",
+   "occasions": [
+    "out",
+    "date",
+    "salsa"
+   ],
+   "temps": [
+    "mild",
+    "warm"
+   ],
+   "note": "Boxy on loose, the drape you have been after."
+  },
+  {
+   "id": 131,
+   "layer": null,
+   "top": "Dark green oversized crew",
+   "bottom": "Black cargo",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "out"
+   ],
+   "temps": [
+    "mild",
+    "warm"
+   ],
+   "note": null
+  },
+  {
+   "id": 132,
+   "layer": null,
+   "top": "Light gray knit",
+   "bottom": "Olive cords",
+   "shoes": "New Balance 2002R",
+   "occasions": [
+    "office",
+    "out",
+    "date"
+   ],
+   "temps": [
+    "cold"
+   ],
+   "note": "Grey and olive: the Paris reference with your new cords."
+  },
+  {
+   "id": 133,
+   "layer": null,
+   "top": "Off-white sweatshirt",
+   "bottom": "Olive cords",
+   "shoes": "Reebok Club C 85",
+   "occasions": [
+    "out",
+    "office"
+   ],
+   "temps": [
+    "cold"
+   ],
+   "note": null
+  },
+  {
+   "id": 134,
+   "layer": null,
+   "top": "Brown chevron top",
+   "bottom": "Olive cords",
+   "shoes": "New Balance 2002R",
+   "occasions": [
+    "out",
+    "date"
+   ],
+   "temps": [
+    "cold"
+   ],
+   "note": null
+  },
+  {
+   "id": 135,
+   "layer": null,
+   "top": "Gray print long sleeve",
+   "bottom": "Olive cords",
+   "shoes": "Nike Air Max TW",
+   "occasions": [
+    "out"
+   ],
+   "temps": [
+    "cold"
+   ],
+   "note": null
+  },
+  {
+   "id": 136,
+   "layer": null,
+   "top": "Olive striped tee",
+   "bottom": "Stonewash jeans",
+   "shoes": "New Balance 2002R",
+   "occasions": [
+    "out"
+   ],
+   "temps": [
+    "mild",
+    "warm"
+   ],
+   "note": null
+  },
+  {
+   "id": 137,
+   "layer": null,
+   "top": "White BH polo",
+   "bottom": "Navy cargo",
+   "shoes": "Reebok Club C 85",
+   "occasions": [
+    "out"
+   ],
+   "temps": [
+    "warm",
+    "mild"
+   ],
+   "note": null
+  },
+  {
+   "id": 138,
+   "layer": null,
+   "top": "Light green crew neck",
+   "bottom": "Navy cargo",
+   "shoes": "New Balance 2002R",
+   "occasions": [
+    "out",
+    "office"
+   ],
+   "temps": [
+    "cold"
+   ],
+   "note": "Pale green over deep navy, the sage reference for winter."
   }
  ],
  "outerwear": [
